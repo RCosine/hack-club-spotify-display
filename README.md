@@ -14,15 +14,16 @@ I made this project because I didn't use Spotify, but I wanted another cool way 
 ## Bill of Materials
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| LCD Screen Module ST7735 | The screen for the spotify case. | - | $4.45$ | [Link](https://www.aliexpress.us/item/3256810492600776.html) | Aliexpress |
-| Keys (10 pack) | For the key switches for the device. | - | $5.47$ | [Link](https://www.aliexpress.us/item/3256805702569357.html) | Aliexpress |
+| LCD Screen Module ST7735 | The screen for the spotify case. | - | $4.47$ | [Link](https://www.aliexpress.us/item/3256810492600776.html) | Aliexpress |
+| Keys (10 pack) | For the key switches for the device. | - | $5.90$ | [Link](https://www.aliexpress.us/item/3256805702569357.html) | Aliexpress |
 | USB-C Cable | This is the cable to connect the device to my laptop. | - | $0.99$ | [Link](https://www.aliexpress.us/item/3256805726279896.html) | Aliexpress |
-| Double sided tape | This is to hold up the screen and the esp32 since I don't have screws. | - | $1.45$ | [Link](https://www.aliexpress.us/item/3256808548632154.html) | Aliexpress |
-| ESP32 C3-SuperMini | This is the board to power the device | - | $2.51$ | [Link](https://www.aliexpress.us/item/3256807995688192.html) | Aliexpress |
+| Double sided tape | This is to hold up the screen and the esp32 since I don't have screws. | - | $1.46$ | [Link](https://www.aliexpress.us/item/3256808548632154.html) | Aliexpress |
+| ESP32 C3-SuperMini | This is the board to power the device | - | $2.61$ | [Link](https://www.aliexpress.us/item/3256807995688192.html) | Aliexpress |
 | Female to female dupont cables | For connecting the display to the ESP32. | - | $3.95$ | [Link](https://www.aliexpress.us/item/3256803032782196.html) | Aliexpress |
-| **Subtotal** | | | **$18.82$** | | |
-| **Tax** | | | **$1.67$** | | |
-| **Grand Total** | | | **$20.49$** | | |
+| M2 Screws (50 pack) | This is to close the case and hold it together. I added screw holes for these. | - | $1.42$ | [Link](https://www.aliexpress.us/item/2251832624557792.html) | Aliexpress |
+| **Subtotal** | | | **$20.80$** | | |
+| **Tax** | | | **$1.84** | | |
+| **Grand Total** | | | **$22.64$** | | |
 
 ## Wiring diagram
 ![enter image description here](https://drive.google.com/uc?id=1N4o97Q4ajh683j2ZLEoBk0rmcP8gfmWo)
