@@ -6,7 +6,7 @@ It runs with an ESP32 and a 1.8" TFT display in a custom designed case. To conne
 I made this project because I didn't use Spotify, but I wanted another cool way to spin off the Spotify Display starter project. I thought seeing the current weather is pretty cool and can also be helpful. To make it more practical, I would've preferred adding a battery, but since I didn't have a solder, I will have to do with this for now.
 
 ## Images
-![enter image description here](https://drive.google.com/uc?id=1mmNWLacFC_LbWsWj3LHKwAhdziOK_UMs)
+![something](https://drive.google.com/uc?id=1mmNWLacFC_LbWsWj3LHKwAhdziOK_UMs)
 ![enter image description here](https://drive.google.com/uc?id=1W8qdjCS_JmhejnSL-92CIec4NBc2ZQoO)
 ![enter image description here](https://drive.google.com/uc?id=1RuzDLVnXD1imldTDTChhIiO8EIjR9pJG)
 ![enter image description here](https://drive.google.com/uc?id=1wb7zGH-jrFnf7nwDyOAayiEDh-ZjwJSK)
@@ -23,3 +23,6 @@ I made this project because I didn't use Spotify, but I wanted another cool way 
 | **Subtotal** | | | **$18.82$** | | |
 | **Tax** | | | **$1.67$** | | |
 | **Grand Total** | | | **$20.49$** | | |
+
+## Wiring diagram
+![enter image description here](https://drive.google.com/uc?id=1N4o97Q4ajh683j2ZLEoBk0rmcP8gfmWo)
