@@ -1,0 +1,8 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"M2 Screws (50 pack)","This is to close the case and hold it together. I added screw holes for these.",,1.42,"https://www.aliexpress.us/item/2251832624557792.html","Aliexpress"
+"LCD Screen Module ST7735","The screen for the spotify case.",,4.45,"https://www.aliexpress.us/item/3256810492600776.html","Aliexpress"
+"Keys (10 pack)","For the key switches for the device.",,5.47,"https://www.aliexpress.us/item/3256805702569357.html","Aliexpress"
+"USB-C Cable","This is the cable to connect the device to my laptop.",,0.99,"https://www.aliexpress.us/item/3256805726279896.html","Aliexpress"
+"Double sided tape","This is to hold up the screen and the esp32 since I don't have screws.",,1.45,"https://www.aliexpress.us/item/3256808548632154.html","Aliexpress"
+"ESP32 C3-SuperMini","This is the board to power the device",,2.51,"https://www.aliexpress.us/item/3256807995688192.html","Aliexpress"
+"Female to female dupont cables (40 pack was the smallest I could find)","This is for connecting the display to the ESP32.",,3.95,"https://www.aliexpress.us/item/3256803032782196.html","Aliexpress"
